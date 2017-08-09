@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE persons SYSTEM "persons.dtd">
+<persons>
+    <DBNode>
+        <Name>PersonID</Name>
+        <Type>integer</Type>
+        <Column>
+            <Row0>25</Row0>
+            <Row1>51</Row1>
+            <Row2>42</Row2>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>LastName</Name>
+        <Type>string</Type>
+        <Column>
+            <Row0>TomErichsen</Row0>
+            <Row1>Anna</Row1>
+            <Row2>Mai</Row2>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>FirstName</Name>
+        <Type>string</Type>
+        <Column>
+            <Row0>Skagen21</Row0>
+            <Row1>Adam</Row1>
+            <Row2>Ali</Row2>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>Address</Name>
+        <Type>string</Type>
+        <Column>
+            <Row0>Stavanger</Row0>
+            <Row1>Time square</Row1>
+            <Row2>whatever</Row2>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>City</Name>
+        <Type>string</Type>
+        <Column>
+            <Row0>Norway</Row0>
+            <Row1>egypt</Row1>
+            <Row2>Paris</Row2>
+        </Column>
+    </DBNode>
+</persons>

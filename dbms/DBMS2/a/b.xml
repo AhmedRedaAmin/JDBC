@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE b SYSTEM "b.dtd">
+<b>
+    <DBNode>
+        <Name>ID</Name>
+        <Type>integer</Type>
+        <Column>
+            <Row0>2</Row0>
+            <Row1>2</Row1>
+            <Row2>3</Row2>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>Name</Name>
+        <Type>string</Type>
+        <Column>
+            <Row0>hkdf</Row0>
+            <Row1>hkdf</Row1>
+            <Row2>gnm</Row2>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>Date</Name>
+        <Type>string</Type>
+        <Column>
+            <Row0>endknfk</Row0>
+            <Row1>endknfk</Row1>
+            <Row2>hkfdh</Row2>
+        </Column>
+    </DBNode>
+</b>

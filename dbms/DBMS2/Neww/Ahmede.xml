@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE Ahmede SYSTEM "Ahmede.dtd">
+<Ahmede>
+    <DBNode>
+        <Name>Name</Name>
+        <Type>string</Type>
+        <Column>
+            <Row0>Dowo</Row0>
+            <Row1>DD</Row1>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>ID</Name>
+        <Type>integer</Type>
+        <Column>
+            <Row0>6</Row0>
+            <Row1>7</Row1>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>Salary</Name>
+        <Type>integer</Type>
+        <Column>
+            <Row0>7</Row0>
+            <Row1>15</Row1>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>Date</Name>
+        <Type>string</Type>
+        <Column>
+            <Row0>sadsaf</Row0>
+            <Row1>null</Row1>
+        </Column>
+    </DBNode>
+</Ahmede>

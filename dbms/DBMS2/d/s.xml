@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE s SYSTEM "s.dtd">
+<s>
+    <DBNode>
+        <Name>name</Name>
+        <Type>string</Type>
+        <Column>
+            <Row>ddd</Row>
+            <Row>Eeee</Row>
+            <Row>Eeee</Row>
+        </Column>
+    </DBNode>
+    <DBNode>
+        <Name>id</Name>
+        <Type>integer</Type>
+        <Column>
+            <Row>3</Row>
+            <Row>3</Row>
+            <Row>3</Row>
+        </Column>
+    </DBNode>
+</s>

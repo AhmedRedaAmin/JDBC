@@ -1,0 +1,6 @@
+<!ELEMENT persons (DBNode+)>
+<!ELEMENT DBNode (Name, Type, Column)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Type (#PCDATA)>
+<!ELEMENT Column (Row+)>
+<!ELEMENT Row (#PCDATA)>
