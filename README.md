@@ -1,4 +1,6 @@
-Author: Ahmed Reda Amin        Email : ahmedredaselim@gmail.com
+Author: Ahmed Reda Amin        
+
+Email : ahmedredaselim@gmail.com
 
 This is a java data Base Management System.
 
